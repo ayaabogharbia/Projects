@@ -1,0 +1,310 @@
+    1  cd ~
+    2  ls
+    3  pwd
+    4  touch aya
+    5  mkdir aya
+    6  cd aya
+    7  cd ~
+    8  mkdir aya
+    9  touch mah
+   10  mkdir haid
+   11  ls
+   12  pwd
+   13  cl
+   14  nautilus
+   15  ls
+   16  cd /bin
+   17  ls
+   18  ls | grep ls
+   19  cat ls
+   20  cd cd ..
+   21  cd ~
+   22  gedit ayaa
+   23  cat ayaa
+   24  cd  /etc
+   25  cd ~
+   26  cd~/etc
+   27  cd/etc
+   28  cd /etc
+   29  ls
+   30  cd~
+   31  cd ~
+   32  ifconfig
+   33  sudo apt install net-tools
+   34  ifconfig
+   35  cd /usr/include
+   36  ls | grep stdio
+   37  sudo apt install build-essential 
+   38  ifconfig
+   39  ls |grep stdio
+   40  gedit stdio.h
+   41  gedit stdio.h &
+   42  cd ..
+   43  cd ~
+   44  cd ..
+   45  cd Desktop
+   46  cd ~
+   47  ls
+   48  cd ..
+   49  cd dev
+   50  cd /dev
+   51  ls
+   52  cd /opt
+   53  ls
+   54  cd ~
+   55  cd ..
+   56  touch file1
+   57  clrar
+   58  clear
+   59  cd Desktop
+   60  cd ~
+   61  cd Desktop
+   62  touch file1
+   63  gedit file1
+   64  py file1
+   65  python3 file1.py
+   66  py3 file1.py
+   67  python3 file1.py
+   68  clear
+   69  gedit file1
+   70  python3 file1.py
+   71  py file1.py
+   72  sudo apt install pythonpy
+   73  py file1.py
+   74  python3 file1.py
+   75  gedit file1
+   76  python3 file1.py
+   77  py file1.py
+   78  gedit file1
+   79  py file1.py
+   80  clear
+   81  gedit file1
+   82  python3 file1.py
+   83  gedit file1 
+   84  python3 file1
+   85  ls
+   86  pwd
+   87  cd
+   88  cd ~
+   89  gedit file1
+   90  man ls
+   91  mkdir lab3
+   92  cd lab3
+   93  mkdir f1 f2
+   94  touch file.txt
+   95  tree
+   96  sudo snap install tree
+   97  sudo apt  install tree
+   98  clear
+   99  ~s
+  100  clear
+  101  ~$
+  102  clear
+  103  ~cd
+  104  clear
+  105  cd
+  106  cd ..
+  107  tree
+  108  clear
+  109  mkdir
+  110  clear
+  111  tree L 1
+  112  clear
+  113  mkdir f3
+  114  clear
+  115  vim file5
+  116  more file5
+  117  gedit file5
+  118  cd
+  119  more file5
+  120  vim file 6
+  121  more file6
+  122  clear
+  123  touch f5
+  124  gedit f5
+  125  vm f5
+  126  sudo apt install mgetty-voice
+  127  clear
+  128  vm f9
+  129  clear
+  130  man
+  131  man man
+  132  clear lab5
+  133  clear
+  134  mkdir lab4
+  135  clear
+  136  man head
+  137  ls -li
+  138  clear
+  139  mkdir lab.txt
+  140  touch lab.txt
+  141  clear
+  142  cd /Lab3
+  143  /Lab3
+  144  clear
+  145  mkdir lab33
+  146  cd /lab33
+  147  cd lab33
+  148  clear
+  149  ls
+  150  touch file5.txt
+  151  touch file6.txt
+  152  vim file5
+  153  vim files
+  154  rm file5
+  155  rm file6
+  156  clear
+  157  touch huss_hard.txt
+  158  touch man_soft.txt
+  159  rm huss_hard.txt
+  160  ln man_soft.txt huss_hard.txt
+  161  ls -li
+  162  vim man_soft.txt
+  163  gedit huss_hard.txt
+  164  cat huss_hard.txt
+  165  ls
+  166  rm file5.txt
+  167  rm file6.txt
+  168  ls
+  169  rm huss_hard.txt
+  170  ls
+  171  cat man_soft.txt
+  172  clear man_soft.txt
+  173  ln -s man_soft.txt huss_hard.txt
+  174  gedit man_soft.txt
+  175  vim man_soft.txt
+  176  cat man_soft.txt
+  177  clear
+  178  ln -s man_soft.txt huss_shadw.txt
+  179  ls -li
+  180  cat huss_shadw.txt
+  181  rm huss_hard.txt 
+  182  rm man_soft.txt
+  183  ls
+  184  ln -s man_soft.txt huss_shadw.txt
+  185  rm huss_shadw.txt
+  186  ln -s man_soft.txt huss_shadw.txt
+  187  ls -li
+  188  vim huss_shadw.txt
+  189  cat man_soft.txt
+  190  rm man_soft.txt
+  191  # ls -l man_soft.txt
+  192  clear
+  193  ls
+  194  rm huss_shadw.txt
+  195  ls
+  196  touch f1
+  197  ls -l
+  198  chmod u+x f1
+  199  ls -l
+  200  chmod uog- rwx
+  201  chmod uog-rwx
+  202  chmod uog-rwx f1
+  203  ls -l
+  204  chmod uo+w f1
+  205  ls -l
+  206  chmod uo+w f1
+  207  ls -l
+  208  chmod 777 f1
+  209  ls -l
+  210  chmod uog- f1
+  211  ls -l
+  212  chmod uog-rwx f1
+  213  ls -l
+  214  chmod 777 f1
+  215  ls -l
+  216  chmod uog-rwx f1
+  217  ls -l
+  218  chmod 7 f1
+  219  ls -l
+  220  chmod uog-rwx f1
+  221  ls -l
+  222  chmod u-rwx f1
+  223  ls -l
+  224  chmod u+rwx f1
+  225  ls -l
+  226  clear
+  227  sudo adduser tasnem
+  228  clear
+  229  su ayamagdy
+  230  sw ayamagdy
+  231  su ayamagdy
+  232  cd
+  233  cd ..
+  234  su ayamagdy
+  235  clear
+  236  sudo usermod -aG sudo ayamagdy
+  237  su ayamagdy
+  238  ls
+  239  sudo usermod -aG sudo tasnem
+  240  ls tasnem
+  241  su tasnem
+  242  clear
+  243  sudo usermod -aG sudo tasnem
+  244  su tasnem
+  245  clear
+  246  sudo usermod -aG sudo tasnem
+  247  su tasnem
+  248  clear
+  249  sudo usermod -aG sudo tasnem
+  250  su tasnem
+  251  sudo addusr morgan
+  252  sudo adduser morgan
+  253  clear
+  254  sudo adduser morgan
+  255  clear
+  256  sudo adduser alaa
+  257  sudo usermod -aG sudo alaa
+  258  su alaa
+  259  clear
+  260  rm -r/
+  261  clear
+  262  rm -m/
+  263  rm -r/
+  264  rm -r /
+  265  rm -r / 2>errorfile
+  266  cclear
+  267  clear
+  268  rm -r / 2>errorfile
+  269  clear
+  270  rm -m /
+  271  rm -r /
+  272  rm -r / 2>errorfile
+  273  ls -l 1>logfile
+  274  grep -r power /sys/ 1> /dev/null
+  275  grep -r power /sys/ 1> /dev/file1
+  276  cd
+  277  grep -r power /sys/ 1> /dev/file1
+  278  cl
+  279  grep -r power /sys/ 1> /dev/n
+  280  grep -r power /sys/ 1> /dev/file1
+  281  grep -r power /sys/ 1> /file1
+  282  grep -r power /sys/ 1> file1
+  283  cat file1
+  284  grep -r power /sys/ &> /dev/null
+  285  clear
+  286  touch 1x 2x 3x
+  287  ls -l *x
+  288  ls
+  289  clear
+  290  cd
+  291  cd ..
+  292  cd
+  293  cd /lab33
+  294  clear
+  295  cd lab33
+  296  touch 1f 2f 3f
+  297  ls
+  298  rm -r *f
+  299  ls
+  300  rm -r *f*
+  301  history
+  302  mail --version
+  303  sudo apt install mailutils
+  304  mail --version
+  305  sudo apt-get install mailutils
+  306  nano /etc/ssmtp/ssmtp.conf
+  307  sudo apt-get install ssmtp
+  308  sudo nano /etc/ssmtp.conf
+  309  sudo nano /etc/ssmtp/ssmtp.conf
+  310  history >>historyfile.txt
